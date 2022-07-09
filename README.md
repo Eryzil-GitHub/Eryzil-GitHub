@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eryzil-GitHub
+- 👋 Hi, I’m Eryzil
 
 
 <!---
